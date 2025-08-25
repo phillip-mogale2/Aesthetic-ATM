@@ -43,9 +43,7 @@ java ATM
 or run the project from Netbeans
 ```
 
-## 📖 Example Usage
-
-```text
+📖 Example Usage
 	Welcome to Aesthetic ATM
 
 Enter your Account number to start transaction: 12345678
@@ -77,3 +75,4 @@ This project helped me strengthen:
 
 ## 🤝 Contributing
 This project was made as an academic exercise, but contributions (bug fixes, new features like mini statements or card blocking) are welcome.
+
