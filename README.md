@@ -41,12 +41,12 @@ javac AestheticAtm.java
 java AestheticAtm
 
 or run the project from Netbeans
-```
 
 ### Database
 I have used the text file as a mini database. See ATM-Database.txt in project files.
 There is no way to add new users, so manually add them using existing data as template.
 
+```
 📖 Example Usage
 	Welcome to Aesthetic ATM
 
@@ -79,6 +79,7 @@ This project helped me strengthen:
 
 ## 🤝 Contributing
 This project was made as an academic exercise, but contributions (bug fixes, new features like mini statements or card blocking) are welcome.
+
 
 
 
