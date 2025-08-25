@@ -31,7 +31,7 @@ This project demonstrates core programming concepts such as control structures, 
 Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/atm-simulator.git](https://github.com/phillip-mogale2/Aesthetic-ATM.git)
+git clone https://github.com/phillip-mogale2/Aesthetic-ATM.git
 cd atm-simulator
 ```
 
@@ -79,7 +79,3 @@ This project helped me strengthen:
 
 ## 🤝 Contributing
 This project was made as an academic exercise, but contributions (bug fixes, new features like mini statements or card blocking) are welcome.
-
-
-
-
