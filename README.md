@@ -24,7 +24,7 @@ This project demonstrates core programming concepts such as control structures, 
 ## 🚀 Getting Started
 ### Prerequisites
 
-* Compiler or interpreter, Java JDK 17+]*
+* Compiler or interpreter, Java JDK 17+
 
 ### Installation
 
@@ -75,4 +75,5 @@ This project helped me strengthen:
 
 ## 🤝 Contributing
 This project was made as an academic exercise, but contributions (bug fixes, new features like mini statements or card blocking) are welcome.
+
 
